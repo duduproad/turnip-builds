@@ -1,3 +1,3 @@
 # turnip-builds
 Custom Turnip compiled by me.
-There will probably be no 720 support.
+There is 720 support now.
